@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NetworkSetting>
+  <METAPLAN_HUB_IP>192.168.10.2</METAPLAN_HUB_IP>
+  <METAPLAN_PORT>2015</METAPLAN_PORT>
+</NetworkSetting>

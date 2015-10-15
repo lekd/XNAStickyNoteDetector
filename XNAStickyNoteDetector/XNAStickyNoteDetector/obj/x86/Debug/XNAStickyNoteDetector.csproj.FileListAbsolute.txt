@@ -1,0 +1,92 @@
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe.config
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.pdb
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\ZedGraph.dll
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.exe
+c:\users\lkduy\documents\visual studio 2010\Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.pdb
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe.config
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.exe
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.pdb
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.pdb
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\ZedGraph.dll
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
+C:\Users\T2I\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\NetworkSetting.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe.config
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.exe
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.pdb
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\NetworkSetting.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.pdb
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\ZedGraph.dll
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
+C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe.config
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\NetworkSetting.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\NoteFrame.png
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\StickyTape.png
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\MiscParameters.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.pdb
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\ZedGraph.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.exe
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.pdb
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\DropBoxStorage.Token
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.ExperimentalProvider.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.MockProvider.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\DropBoxTokenIssuer.exe
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Newtonsoft.Json.Net40.dll
