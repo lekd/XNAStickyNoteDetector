@@ -41,12 +41,12 @@ namespace XNAStickyNoteDetector.Objects
         }
         public void display(SpriteBatch spriteBatch)
         {
-            int displayStickyTapeSize = 120;
+            int displayStickyTapeSize = AppParameters.NOTE_SIZE - 2 * AppParameters.MARKER_SIZE;
             float scale = ((float)displayStickyTapeSize)/TextureManager.StickyTape.Width;
             PointF topleft = new PointF(_anchorX - AppParameters.MARKER_SIZE/2, _anchorY - AppParameters.MARKER_SIZE/2);
-            PointF tapePosition = new PointF(topleft.X + AppParameters.NOTE_SIZE - displayStickyTapeSize / 6, topleft.Y + displayStickyTapeSize / 6);
+            PointF tapePosition = new PointF(topleft.X + AppParameters.MARKER_SIZE + displayStickyTapeSize/2, topleft.Y);
             float rotAngleInRads = _orientation - (float)Math.PI / 2;
-            tapePosition = Utilities.rotatePoint(tapePosition,rotAngleInRads,new PointF(_anchorX,_anchorY));
+            tapePosition = Utilities.rotatePoint(tapePosition,rotAngleInRads,topleft);
             Vector2 origin = new Vector2(TextureManager.StickyTape.Width/2,TextureManager.StickyTape.Height/2);
             spriteBatch.Draw(TextureManager.StickyTape, new Vector2(tapePosition.X, tapePosition.Y),
                                 null,

@@ -97,7 +97,7 @@ namespace XNAStickyNoteDetector.Managers
                 if (tracker.Type == TouchType.Tag)
                 {
                     //check if this intentional line crosses a sticky note or not
-                    if (generatedLine.crossAStickyNote(tracker.getLatestTouch()))
+                    if (generatedLine.crossStickyNoteAtTopEdge(tracker.getLatestTouch()))
                     {
                         TouchPoint touch = tracker.getLatestTouch();
                         int tagID = (int)(((TagData)touch.Tag).Value);

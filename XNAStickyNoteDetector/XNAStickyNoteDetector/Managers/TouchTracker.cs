@@ -102,6 +102,7 @@ namespace XNAStickyNoteDetector.Managers
         {
             if (LineOfFingerTouch.isIntendedLine(_detectedTouches))
             {
+                Console.WriteLine("Intended line detected");
                 if (intendedLineGeneratedHandler != null)
                 {
                     LineOfFingerTouch lineOfTouches = new LineOfFingerTouch();

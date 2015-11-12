@@ -12,6 +12,7 @@ namespace XNAStickyNoteDetector.Presentation
     {
         public static Texture2D NoteFrame;
         public static Texture2D StickyTape;
+        public static Texture2D NoteBackground;
         public static void Load(GraphicsDeviceManager graphics)
         {
             string exeFileName = System.Windows.Forms.Application.ExecutablePath;
@@ -23,6 +24,10 @@ namespace XNAStickyNoteDetector.Presentation
             using (Stream fileName = File.OpenRead(Path.Combine(imgResDirPath, "StickyTape.png")))
             {
                 StickyTape = Texture2D.FromStream(graphics.GraphicsDevice, fileName);
+            }
+            using (Stream fileName = File.OpenRead(Path.Combine(imgResDirPath, "StickyNote.png")))
+            {
+                NoteBackground = Texture2D.FromStream(graphics.GraphicsDevice, fileName);
             }
         }
     }

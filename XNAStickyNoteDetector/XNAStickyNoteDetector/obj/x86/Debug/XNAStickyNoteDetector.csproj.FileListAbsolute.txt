@@ -90,3 +90,4 @@ E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XN
 E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.MockProvider.dll
 E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\DropBoxTokenIssuer.exe
 E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Newtonsoft.Json.Net40.dll
+E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\StickyNote.png

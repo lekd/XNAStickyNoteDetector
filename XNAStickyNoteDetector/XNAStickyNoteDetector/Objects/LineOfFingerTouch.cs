@@ -12,7 +12,7 @@ namespace XNAStickyNoteDetector.Objects
     {
         public delegate void IntendedLineGenerated(object sender,object args);
 
-        const int MINIMUM_LENGTH = 100;
+        const int MINIMUM_LENGTH = 70;
         List<TouchPoint> _fingerTouches;
         
         public List<TouchPoint> FingerTouches
@@ -39,17 +39,13 @@ namespace XNAStickyNoteDetector.Objects
         }
         public static bool isIntendedLine(List<TouchPoint> lineOfTouches)
         {
-            if (lengthOfLineOfTouches(lineOfTouches) < MINIMUM_LENGTH)
-            {
-                return false;
-            }
-            return true;
+            return lengthOfLineOfTouches(lineOfTouches) >= MINIMUM_LENGTH;
         }
         public double getShortestLength()
         {
             return lengthOfLineOfTouches(_fingerTouches);
         }
-        public bool crossAStickyNote(TouchPoint tagOfNote)
+        public bool crossStickyNoteAtTopRight(TouchPoint tagOfNote)
         {
             float top = tagOfNote.CenterY - AppParameters.MARKER_SIZE / 2;
             float left = tagOfNote.CenterX - AppParameters.MARKER_SIZE / 2;
@@ -96,6 +92,48 @@ namespace XNAStickyNoteDetector.Objects
             }
             
             return true;
+        }
+        public bool crossStickyNoteAtTopEdge(TouchPoint tagOfNote)
+        {
+            float top = tagOfNote.CenterY - AppParameters.MARKER_SIZE / 2;
+            float left = tagOfNote.CenterX - AppParameters.MARKER_SIZE / 2;
+            float bottom = top + AppParameters.NOTE_SIZE;
+            float right = left + AppParameters.NOTE_SIZE;
+            PointF rotAnchor = new PointF(tagOfNote.CenterX, tagOfNote.CenterY);
+            float rotAngle = -1 * tagOfNote.Orientation + (float)Math.PI / 2;
+
+            PointF beginning = new PointF(_fingerTouches[0].CenterX, _fingerTouches[0].CenterY);
+            beginning = Utilities.rotatePoint(beginning, rotAngle, rotAnchor);
+            PointF end = new PointF(_fingerTouches[_fingerTouches.Count - 1].CenterX, _fingerTouches[_fingerTouches.Count - 1].CenterY);
+            end = Utilities.rotatePoint(end, rotAngle, rotAnchor);
+            Vector2 beginToEnd = new Vector2(end.X - beginning.X, end.Y - beginning.Y);
+            //compute the angle of the drawing line
+            beginToEnd.Normalize();
+            double line_angle = Utilities.RadToDegree((float)Math.Acos(beginToEnd.X));
+            //if it's not approximately a horizontal one, then stop
+            if (Math.Abs(line_angle) > 20 && Math.Abs(line_angle) < 160)
+            {
+                Console.WriteLine("Not a horizontal line");
+                return false;
+            }
+            //now assume that this is a straght line, we check if the line is close enough to the note or not
+            //first we compute the average y of the line
+            double averageY = 0;
+            for (int i = 0; i < _fingerTouches.Count; i++)
+            {
+                PointF currentP = new PointF(_fingerTouches[i].CenterX, _fingerTouches[i].CenterY);
+                currentP = Utilities.rotatePoint(currentP, rotAngle, rotAnchor);
+                averageY += currentP.Y;
+            }
+            averageY /= _fingerTouches.Count;
+            //the distance between average Y and top of the note is small enough to be considered as close
+            if (Math.Abs(averageY - top) <= 20)
+            {
+                Console.WriteLine("Assigning line detected");
+                return true;
+            }
+            Console.WriteLine("Distance {0}", Math.Abs(averageY - top));
+            return false;
         }
         bool pointInSideBound(float top, float left, float bottom, float right, PointF p)
         {

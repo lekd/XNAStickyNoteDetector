@@ -39,7 +39,7 @@ public class StickyNoteExtractor
             }
         }
         double stdev = Math.Sqrt(variance / (inputImg.Width * inputImg.Height - marker_area));
-        inputImg = inputImg.ThresholdBinary(new Gray(avgGray - 1.5*stdev), new Gray(255));
+        inputImg = inputImg.ThresholdBinary(new Gray(avgGray - 1.1*stdev), new Gray(255));
         
         return inputImg;
     }

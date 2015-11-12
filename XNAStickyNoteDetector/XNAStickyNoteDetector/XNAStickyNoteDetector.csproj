@@ -143,6 +143,9 @@
     <Content Include="Images\NoteFrame.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Images\StickyNote.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Images\StickyTape.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
