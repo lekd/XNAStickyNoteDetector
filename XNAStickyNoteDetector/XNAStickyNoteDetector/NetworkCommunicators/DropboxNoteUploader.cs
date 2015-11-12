@@ -22,6 +22,19 @@ namespace XNAStickyNoteDetector.NetworkCommunicators
                 accessToken = storage.DeserializeSecurityToken(fs);
             }
             storageToken = storage.Open(dropboxConfig, accessToken);
+            InitNoteFolderIfNecessary();
+        }
+        void InitNoteFolderIfNecessary()
+        {
+            try
+            {
+                storage.GetFolder("/Notes");
+            }
+            catch (Exception ex)
+            {
+                storage.CreateFolder("/Notes");
+            }
+
         }
         Bitmap bitmapToUpload = null;
         string targetFileName = string.Empty;

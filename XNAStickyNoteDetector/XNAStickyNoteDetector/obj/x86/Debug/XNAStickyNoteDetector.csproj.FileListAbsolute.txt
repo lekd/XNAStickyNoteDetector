@@ -60,34 +60,3 @@ C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetecto
 C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
 C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
 C:\Users\Morten Crew\Dropbox\Chalmers_Related\On-Going Code\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe.config
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\NetworkSetting.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\NoteFrame.png
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\StickyTape.png
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\MiscParameters.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.exe
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\XNAStickyNoteDetector.pdb
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\ZedGraph.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.GPU.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.ML.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.OCR.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.CV.UI.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Emgu.Util.xml
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.csprojResolveAssemblyReference.cache
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.exe
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\obj\x86\Debug\XNAStickyNoteDetector.pdb
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\DropBoxStorage.Token
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.ExperimentalProvider.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\AppLimit.CloudComputing.SharpBox.MockProvider.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\DropBoxTokenIssuer.exe
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Newtonsoft.Json.Net40.dll
-E:\Users\khanhd.NET\.NET Projects\XNAStickyNoteDetector\XNAStickyNoteDetector\XNAStickyNoteDetector\bin\Debug\Images\StickyNote.png
